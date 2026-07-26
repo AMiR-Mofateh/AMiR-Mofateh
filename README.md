@@ -1,6 +1,6 @@
-# Hi, I'm Amir Mohammad Mofateh 👋
+# Amir Mohammad Mofateh 
 
-Computer Engineering student at Isfahan University of Technology.
+Computer Engineering student at Isfahan University of Technology
 
 Focused on **AI**, **cybersecurity**, and **networks** — I enjoy building things that are smart, secure, and well-connected.
 
