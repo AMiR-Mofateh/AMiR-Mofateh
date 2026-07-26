@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amir Mohammad Mofateh</h1>
+Amir Mohammad Mofateh</h1>
 
 <h3 align="center">Computer Engineering Student @ Isfahan University of Technology</h3>
 
@@ -11,11 +11,6 @@
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
-
-Computer Engineering student at Isfahan University of Technology, focused on **AI**, **cybersecurity**, and **networks** — I enjoy building things that are smart, secure, and well-connected.
-
----
 
 ### 🛠️ Skills
 
